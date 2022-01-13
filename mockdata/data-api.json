@@ -1,0 +1,73 @@
+{
+  "posts": [
+    {
+      "title": "Introduction to React js with examples",
+      "body": "This post provides an introduction to react",
+      "author": "Harry Miller",
+      "category": "react",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Advance to React js",
+      "body": "This post provides an advance to react features",
+      "author": "Marry ",
+      "category": "react"
+    },
+    {
+      "id": 3,
+      "title": "Introduction to Redux",
+      "body": "This post provides an introduction to react",
+      "author": "Jane ",
+      "category": "redux"
+    },
+    {
+      "title": "Advance to Redux with Handsons ",
+      "body": "This post provides an advance topic to redux with handson",
+      "author": "Marry Smith",
+      "category": "redux",
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "code": "react",
+      "name": "React"
+    },
+    {
+      "code": "redux",
+      "name": "Redux"
+    },
+    {
+      "code": "angular",
+      "name": "Angular"
+    },
+    {
+      "code": "jsx",
+      "name": "JSX"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "mike@123",
+      "password": "mike@123",
+      "email": "mike@gmail.com",
+      "status": false
+    },
+    {
+      "id": 2,
+      "username": "john@123",
+      "password": "john@123",
+      "email": "john@gmail.com",
+      "status": false
+    },
+    {
+      "id": 3,
+      "username": "david@123",
+      "password": "david@123",
+      "email": "david@gmail.com",
+      "status": false
+    }
+  ]
+}
